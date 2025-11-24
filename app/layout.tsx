@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AgentKit demo",
-  description: "Demo of ChatKit with hosted workflow",
+  title: "Depp Racer",
+  description: "(주)감람 챗봇 에이전트 회사 제공",
 };
 
 export default function RootLayout({
